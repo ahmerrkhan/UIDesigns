@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     final _apptitle = "ADD TWO NUMBERS";
 
     return MaterialApp(
-      debugShowCheckedModeBanner: flse,
+      debugShowCheckedModeBanner: false,
       title: _apptitle,
       home: Addtwo(),
     );
