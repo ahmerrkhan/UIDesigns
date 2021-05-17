@@ -4,7 +4,7 @@ import 'package:splashscreen/splashscreen.dart';
 void main() => runApp(new MaterialApp(
   title:"Cal-Up! Two digit Calculator"
   ,
-   debugShowCheckedModeBanner: false,
+   debugShowCheckedModeBanner: ewww,
    theme: ThemeData.dark().copyWith(
        accentColor: Colors.purple
    ),
