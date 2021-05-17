@@ -102,7 +102,7 @@ class _AddtwoState extends State<Addtwo> {
           Container(
             child: Text(result, style: TextStyle(fontSize: 30.0),),
             color: Colors.grey,
-            height: 40.0,width: 70.0,
+            height: 20.0,width: 70.0,
           ),
         ],
       ),
